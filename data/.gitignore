@@ -1,0 +1,16 @@
+# Ignore les vrais fichiers de données sauf les fichiers .dvc
+/data/*
+!/data/*.dvc
+
+# Clé GCP 
+*.json
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Environnement virtuel
+venv/
+
+# DVC et Gitignore
+.dvcignore
