@@ -14,3 +14,4 @@ venv/
 
 # DVC et Gitignore
 .dvcignore
+/top_100_saas_companies_2025.csv
