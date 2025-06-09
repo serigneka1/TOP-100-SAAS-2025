@@ -1,4 +1,0 @@
-[core]
-    remote = top_100_saas_2025_data
-['remote "top_100_saas_2025_data"']
-    url = gs://TOP_100_SAAS_2025/dvcstore
