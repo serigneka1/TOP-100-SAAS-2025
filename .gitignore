@@ -1,7 +1,6 @@
 # Ignore les vrais fichiers de données sauf les fichiers .dvc
 /data/*
 !/data/*.dvc
-
 # Clé GCP 
 *.json
 

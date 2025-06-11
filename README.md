@@ -34,7 +34,7 @@ pip install dvc[gcs]
 ### 2- Définir la variable d'env GOOGLE_APPLICATION_CREDENTIALS
 ```bash
 $env:GOOGLE_APPLICATION_CREDENTIALS="C:\chemin\vers\fichier.json" # Sur PowerShell (Windows) 
-export GOOGLE_APPLICATION_CREDENTIALS="/chemin/vers/dataanalytics-457219-b99f0aec4b36.json" # Sur Linux/macOS
+export GOOGLE_APPLICATION_CREDENTIALS="C:\chemin\vers\fichier.json" # Sur Linux/macOS
 ```
 NB: Il y a moyen de créer un script, mais la variable d'env suffit pour le moment
 # Configuration de DVC
