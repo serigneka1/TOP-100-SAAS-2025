@@ -1,0 +1,5 @@
+outs:
+- md5: b5b04cf01c9b2891c30bf48b5da2b4cf
+  size: 15121
+  hash: md5
+  path: top_100_startup_2025.csv
