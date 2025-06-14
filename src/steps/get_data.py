@@ -4,7 +4,11 @@ import logging
 import pandas as pd
 import os
 
-# Download latest version
+"""
+Ce script permet de charger les données depuis Kagglehub
+et de les sauvegarder dans data/raw.
+"""
+
 path = kagglehub.dataset_download("shreyasdasari7/top-100-saas-companiesstartups")
 
 def get_data() -> pd.DataFrame:
